@@ -1,7 +1,5 @@
 ---
 layout: page
-
-title: Endo_Ben_eity
 ---
 
 # About me / this website.
