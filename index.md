@@ -1,6 +1,5 @@
 ---
 layout: page
-
 ---
 
 # About me / this website.
