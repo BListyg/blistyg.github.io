@@ -7,7 +7,17 @@ My name is Ben Listyg. I'm a Data Scientist with [Wyzant](https://www.wyzant.com
 
 You can follow me on twitter [@benlistyg](https://www.twitter.com/benlistyg)
 
+You can read my poorly written code on my [Github](https://www.github.com/blistyg)
+
+[2019-01-23: Networks of Models](http://rpubs.com/blistyg/networksofmodels)
+
+- Accompanying code [here](https://github.com/BListyg/Model-Selection-Network)
+
 [2019-01-19: Missing data in networks](https://rpubs.com/blistyg/missingnetworks)
 
+- Accompanying code [here](https://github.com/BListyg/Missingness-in-Networks)
+
 [2019-01-19: All possible sub-graphs](https://rpubs.com/blistyg/subgraphs)
+
+- Accompanying code [here](https://github.com/BListyg/Graph-Combinatorics)
 
