@@ -9,6 +9,10 @@ You can follow me on twitter [@benlistyg](https://www.twitter.com/benlistyg).
 
 You can read my poorly written code on my [Github](https://www.github.com/blistyg).
 
+[2019-01-23: Networks of Models](http://rpubs.com/blistyg/thekanyeconjecture)
+
+- Accompanying code [here](https://github.com/BListyg/KanyeCausalImpact)
+
 [2019-01-23: Networks of Models](http://rpubs.com/blistyg/networksofmodels)
 
 - Accompanying code [here](https://github.com/BListyg/Model-Selection-Network)
