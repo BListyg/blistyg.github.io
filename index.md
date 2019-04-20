@@ -3,11 +3,15 @@ layout: page
 title: About me / this website.
 ---
 
-My name is Ben Listyg. I'm a Data Scientist with [Wyzant](https://www.wyzant.com) based out of Chicago, IL. I work at the intersection of applied graph theory, text mining, and causal inference to improve the learning and teaching experiences for the students and tutors who use our platform. A 2019 goal I set for myself is to improve my technincal writing as well as share some of my work in a public setting. My _hope_ is that this website will help me accomplish that. 
+I’m an incoming PhD student studying Industrial-Organizational (I/O) Psychology at the University of Georgia advised by Nathan Carter. My substantive interests primarily revolve around vocational interests, occupational choice, and understanding how individual differences, such as personality, predict and/or explain labor market behavior. Methodologically, I am interested in item response theory, applied graph theory, mixed effects models, and missing data.
+
+My current CV can be found [here.](CV WEBSITE HERE)
 
 You can follow me on twitter [@benlistyg](https://www.twitter.com/benlistyg).
 
 You can read my poorly written code on my [Github](https://www.github.com/blistyg).
+
+# Blog Posts
 
 [2019-01-24: The Kanye Conjecture](http://rpubs.com/blistyg/thekanyeconjecture)
 
