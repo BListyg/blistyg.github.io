@@ -3,6 +3,8 @@ layout: page
 title: About me.
 ---
 
+___
+
 I’m an incoming PhD student studying Industrial-Organizational (I-O) Psychology at the University of Georgia advised by Dr. Nathan Carter. My substantive research interests primarily revolve around vocational interests, occupational choice, and understanding how individual differences, such as personality, predict and/or explain labor market behavior. Methodologically, I am interested in item response theory, applied graph theory, mixed effects models, and missing data.
 
 My CV can be found [here.](CV WEBSITE HERE)
