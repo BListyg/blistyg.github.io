@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aboout me.
+title: About me.
 ---
 
 I’m an incoming PhD student studying Industrial-Organizational (I-O) Psychology at the University of Georgia advised by Dr. Nathan Carter. My substantive research interests primarily revolve around vocational interests, occupational choice, and understanding how individual differences, such as personality, predict and/or explain labor market behavior. Methodologically, I am interested in item response theory, applied graph theory, mixed effects models, and missing data.
@@ -12,6 +12,7 @@ You can follow me on twitter [@benlistyg](https://www.twitter.com/benlistyg).
 Code for on-going and/or personal projects can be found on my [Github](https://www.github.com/blistyg).
 
 ### Blog posts.
+___
 
 [2019-01-24: The Kanye Conjecture](http://rpubs.com/blistyg/thekanyeconjecture)
 
