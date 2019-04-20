@@ -11,7 +11,8 @@ You can follow me on twitter [@benlistyg](https://www.twitter.com/benlistyg).
 
 You can read my poorly written code on my [Github](https://www.github.com/blistyg).
 
-# Blog Posts
+
+## Blog Posts
 
 [2019-01-24: The Kanye Conjecture](http://rpubs.com/blistyg/thekanyeconjecture)
 
