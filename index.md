@@ -3,11 +3,11 @@ layout: page
 title: About me.
 ---
 
-I’m an incoming PhD student studying Industrial-Organizational (I-O) Psychology at the University of Georgia advised by Dr. Nathan Carter. My substantive research interests primarily revolve around vocational interests, occupational choice, and understanding how individual differences, such as personality, predict and/or explain labor market behavior. Methodologically, I am interested in item response theory, applied graph theory, mixed effects models, and missing data.
+I’m an incoming PhD student studying Industrial-Organizational (I-O) Psychology at the University of Georgia advised by Dr. Nathan Carter. My substantive research interests primarily revolve around vocational interests, occupational choice, and understanding how individual differences, such as personality, predict and/or explain labor market behavior. Methodologically, I am interested in item response theory, applied graph theory, mixed effects models. I am passionate about open source software, statistical programming, and open social science. I hope to use this site as a way of discussing and showcasing my work in those areas.
 
 My CV can be found [here.](CV WEBSITE HERE)
 
-You can follow me on twitter [@benlistyg](https://www.twitter.com/benlistyg).
+You can follow me on Twitter [@benlistyg](https://www.twitter.com/benlistyg).
 
 Code for on-going and/or personal projects can be found on my [Github](https://www.github.com/blistyg).
 
