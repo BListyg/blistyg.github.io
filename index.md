@@ -10,7 +10,9 @@ My CV can be found [here.](CV WEBSITE HERE)
 You can follow me on twitter [@benlistyg](https://www.twitter.com/benlistyg).
 
 Code for on-going and/or personal projects can be found on my [Github](https://www.github.com/blistyg).
+
 ___
+
 
 [2019-01-24: The Kanye Conjecture](http://rpubs.com/blistyg/thekanyeconjecture)
 
