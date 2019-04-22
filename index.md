@@ -14,6 +14,7 @@ Code for on-going and/or personal projects can be found on my [Github](https://w
 ___
 
 
+
 [2019-01-24: The Kanye Conjecture](http://rpubs.com/blistyg/thekanyeconjecture)
 
 - Accompanying code [here](https://github.com/BListyg/KanyeCausalImpact)
