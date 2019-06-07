@@ -26,10 +26,6 @@ ___
 
 - Accompanying code [here](https://github.com/BListyg/Model-Selection-Network)
 
-[2019-01-19: Missing data in networks](https://rpubs.com/blistyg/missingnetworks)
-
-- Accompanying code [here](https://github.com/BListyg/Missingness-in-Networks)
-
 [2019-01-19: All possible sub-graphs](https://rpubs.com/blistyg/subgraphs)
 
 - Accompanying code [here](https://github.com/BListyg/Graph-Combinatorics)
