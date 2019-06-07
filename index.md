@@ -8,7 +8,7 @@ My name is Ben Listyg. I’m an incoming PhD student studying Industrial-Organiz
 
 I am passionate about open source software, statistical programming, and open social science. I hope to use this website as a platform for discussing and showcasing my work in these areas.
 
-My CV can be found [here.](CV WEBSITE HERE)
+My CV can be found [here.](https://drive.google.com/file/d/1fteDxvZBVSwpGXudGrf6GiYpjOLzUJCI/view)
 
 You can follow me on Twitter [@benlistyg](https://www.twitter.com/benlistyg).
 
