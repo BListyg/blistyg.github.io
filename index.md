@@ -2,7 +2,9 @@
 layout: page
 ---
 
-![](https://avatars1.githubusercontent.com/u/16409133?s=460&v=4)
+<p align="center">
+  <https://avatars1.githubusercontent.com/u/16409133?s=460&v=4/>
+</p>
 
 #### About me.
 
