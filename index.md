@@ -3,7 +3,7 @@ layout: page
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://avatars1.githubusercontent.com/u/16409133?s=460&v=4">
+  <img width="200" height="200" src="https://avatars1.githubusercontent.com/u/16409133?s=460&v=4">
 </p>
 
 #### About me.
