@@ -8,7 +8,9 @@ layout: page
 
 #### About me.
 
-My name is Ben Listyg. I’m a first-year PhD student studying Industrial-Organizational (I-O) Psychology at the University of Georgia advised by Dr. Nathan Carter. My substantive research interests primarily revolve around vocational interests and occupational choice. Methodologically, I am interested in item response theory, applied graph theory, mixed effects models. Prior to my return to academia, I was a member of the Data Team at Wyzant, an online tutor marketplace based in Chicago, IL. I have previously worked at National Public Radio, Mercer Consulting, Junior Achievement of Georgia, and Invesco. I recieved my undergraduate degree in Psychology from the University of Georgia in 2016 and spent some time as a PhD student in the I-O department at the University of South Florida between 2016 and 2017.
+My name is Ben Listyg. I’m a first-year PhD student studying Industrial-Organizational (I-O) Psychology at the University of Georgia advised by Dr. Nathan Carter. My substantive research interests primarily revolve around vocational interests and occupational choice. Methodologically, I am interested in item response theory, applied graph theory, and mixed effects models. 
+
+Prior to my return to academia, I was a member of the Data Team at Wyzant, an online tutor marketplace based in Chicago, IL, between March 2018 and June 2019. There I worked on problems at the intersection of natural language processing and graph theory (with some observational causal inference problems as well) and picked up a little bit of software engineering knowledge as well. I have previously worked at National Public Radio, Mercer Consulting, Junior Achievement of Georgia, and Invesco. I recieved my undergraduate degree in Psychology from the University of Georgia in 2016 and spent some time as a PhD student in the I-O department at the University of South Florida between 2016 and 2017.
 
 My CV can be found [here.](https://drive.google.com/open?id=1QVp1w273dugyvVMCVq8JElLhTX9cXY-P)
 
