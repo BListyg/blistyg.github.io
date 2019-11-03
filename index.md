@@ -14,7 +14,7 @@ Prior to my return to academia, I was a member of the Data Team at Wyzant, an on
 
 I have previously worked at National Public Radio, Mercer Consulting, Junior Achievement of Georgia, and Invesco. I received my undergraduate degree in Psychology from the University of Georgia in 2016. Additionally, I spent some time at Georgia Tech as a visiting research assistant in the summer of 2014 and was a PhD student in the I-O department at the University of South Florida between 2016 and 2017 before leaving to explore a career path in industry.
 
-My CV can be found [here.](https://drive.google.com/open?id=1QVp1w273dugyvVMCVq8JElLhTX9cXY-P)
+My CV can be found [here.](https://drive.google.com/file/d/1-ueZQhrBanma7wYF8LfbN0uGJ2tgQZBb/view?usp=sharing)
 
 You can follow me on Twitter [@benlistyg](https://www.twitter.com/benlistyg).
 
